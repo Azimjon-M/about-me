@@ -1,9 +1,9 @@
-# Nurmamatov Nodirbek
+# Meliboev Azimjon
 Frontend developer
 
-[💼 Portfolio](https://) | [💬 Telegram](https://t.me/nodirbek2709) | [📧 Email](mailto:nodirjon0927@gmail.com)
+[💼 Portfolio](https://) | [💬 Telegram](https://t.me/Azi_Meliboev) | [📧 Email](mailto:azimeliboev2000@gmail.com)
 
-<p align="left"> <a href="https://twitter.com/nodirbek27" target="blank"><img src="https://img.shields.io/twitter/follow/nodirbek27?logo=twitter&style=for-the-badge" alt="nodirbek27" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Azi_Meliboev" target="blank"><img src="https://img.shields.io/twitter/follow/Azi_Meliboev?logo=twitter&style=for-the-badge" alt="icon" /></a> </p>
 
 
 
@@ -15,14 +15,14 @@ Frontend developer
 
 ## Connect with me:
 <p align="left">
-<a href="https://twitter.com/nodirbek27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nodirbek27" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nodirbek27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nodirbek27" height="30" width="40" /></a>
-<a href="https://instagram.com/nodirbek_2709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nodirbek_2709" height="30" width="40" /></a>
+<a href="https://twitter.com/Azi_Meliboev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="icon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/azimjon-meliboyev-3b96752a2?fromQR=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="icon" height="30" width="40" /></a>
+<a href="https://instagram.com/azimeliboyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="icon" height="30" width="40" /></a>
 </p>
 
 ## GitHub statistics
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nodirbek27&show_icons=true&locale=en&layout=compact" alt="nodirbek27" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Azimjon-M&show_icons=true&locale=en&layout=compact" alt="icon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nodirbek27&show_icons=true&locale=en" alt="nodirbek27" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Azimjon-M&show_icons=true&locale=en" alt="icon" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nodirbek27&" alt="nodirbek27" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Azimjon-M&" alt="icon" /></p>
