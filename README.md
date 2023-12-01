@@ -27,7 +27,7 @@ Frontend developer
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
   </a> 
   <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
-    <img href="[https://static-00.iconduck.com/assets.00/material-ui-icon-512x406-fhnu85xg.png](https://static-00.iconduck.com/assets.00/material-ui-icon-512x406-fhnu85xg.png)" alt="material UI" width="40" height="40"/>
+    <img href="https://static-00.iconduck.com/assets.00/material-ui-icon-512x406-fhnu85xg.png" alt="material UI" width="40" height="40"/>
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
