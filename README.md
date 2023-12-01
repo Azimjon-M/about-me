@@ -26,6 +26,9 @@ Frontend developer
   <a href="https://react.dev" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
   </a> 
+  <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.w3.org/2000/svg" alt="react" width="40" height="40"/> 
+  </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>  
